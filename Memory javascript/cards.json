@@ -1,0 +1,30 @@
+[
+    {
+        "key": 0,
+        "img": "bild1.jpg"
+    },{
+        "key": 1,
+        "img": "bild2.jpg"
+    },{ 
+        "key": 2,
+        "img": "bild3.jpg"
+    },{ 
+        "key": 3,
+        "img": "bild4.jpg"
+    },{ 
+        "key": 4,
+        "img": "bild5.jpg"
+    },{ 
+        "key": 5,
+        "img": "bild6.jpg"
+    },{
+        "key": 6,
+        "img": "bild7.jpg"
+    },{
+        "key": 7,
+        "img": "bild8.jpg"
+    },{
+        "key": 8,
+        "img": "bild9.jpg"
+    }
+]
